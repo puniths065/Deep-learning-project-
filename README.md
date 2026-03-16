@@ -30,4 +30,6 @@ As training progresses, the model gradually improves its ability to correctly cl
 
 In conclusion, this task demonstrates how a deep learning model can be implemented for image classification using PyTorch. By leveraging convolutional neural networks and proper data preprocessing techniques, the model can effectively learn meaningful patterns from image data. This implementation highlights the importance of deep learning in computer vision and provides a foundational understanding of how modern image recognition systems are built and trained.
 
+output of the task 
 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/421193f8-cea6-43f3-9358-be66f85953b3" />
